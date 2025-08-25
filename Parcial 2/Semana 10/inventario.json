@@ -1,0 +1,62 @@
+[
+    {
+        "id": "001",
+        "nombre": "cuaderno universitario",
+        "cantidad": 50,
+        "precio": 2.5
+    },
+    {
+        "id": "002",
+        "nombre": "lapiz HB",
+        "cantidad": 200,
+        "precio": 0.25
+    },
+    {
+        "id": "003",
+        "nombre": "Borrador blanco",
+        "cantidad": 100,
+        "precio": 0.3
+    },
+    {
+        "id": "004",
+        "nombre": "Marcador negro",
+        "cantidad": 75,
+        "precio": 1.1
+    },
+    {
+        "id": "005",
+        "nombre": "Resma de papel A4",
+        "cantidad": 20,
+        "precio": 4.8
+    },
+    {
+        "id": "006",
+        "nombre": "Tijeras escolares",
+        "cantidad": 40,
+        "precio": 1.75
+    },
+    {
+        "id": "007",
+        "nombre": "Regla plasticas 30cm",
+        "cantidad": 60,
+        "precio": 0.9
+    },
+    {
+        "id": "008",
+        "nombre": "cartulina",
+        "cantidad": 150,
+        "precio": 0.5
+    },
+    {
+        "id": "009",
+        "nombre": "Boligrafo azul",
+        "cantidad": 300,
+        "precio": 0.35
+    },
+    {
+        "id": "010",
+        "nombre": "Pegamento en barra",
+        "cantidad": 80,
+        "precio": 1.2
+    }
+]
