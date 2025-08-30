@@ -1,0 +1,56 @@
+{
+    "002": {
+        "id_producto": "002",
+        "nombre": "Pantalones de dama",
+        "cantidad": 57,
+        "precio": 25.0
+    },
+    "003": {
+        "id_producto": "003",
+        "nombre": "Vestidos",
+        "cantidad": 80,
+        "precio": 45.0
+    },
+    "004": {
+        "id_producto": "004",
+        "nombre": "Camisas de caballero",
+        "cantidad": 95,
+        "precio": 25.0
+    },
+    "005": {
+        "id_producto": "005",
+        "nombre": "Carteras",
+        "cantidad": 65,
+        "precio": 15.0
+    },
+    "006": {
+        "id_producto": "006",
+        "nombre": "Zapatos deportivos",
+        "cantidad": 56,
+        "precio": 45.0
+    },
+    "007": {
+        "id_producto": "007",
+        "nombre": "Corbatas",
+        "cantidad": 100,
+        "precio": 7.0
+    },
+    "008": {
+        "id_producto": "008",
+        "nombre": "Pantalonetas",
+        "cantidad": 75,
+        "precio": 15.0
+    },
+    "009": {
+        "id_producto": "009",
+        "nombre": "gorras",
+        "cantidad": 100,
+        "precio": 10.0
+    },
+    "10": {
+        "id_producto": "10",
+        "nombre": "medias",
+        "cantidad": 200,
+        "precio": 4.0
+    }
+}
