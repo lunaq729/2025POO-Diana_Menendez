@@ -1,0 +1,45 @@
+{
+    "libros": [
+        {
+            "titulo": "Blanca nieve",
+            "autor": "Carlos",
+            "categoria": "1",
+            "isbn": "001"
+        },
+        {
+            "titulo": "Cien años de soledad",
+            "autor": "Gabriel Garcia",
+            "categoria": "2",
+            "isbn": "002"
+        }
+    ],
+    "usuarios": [
+        {
+            "nombre": "Diana",
+            "id_usuario": "1310404395",
+            "libros_prestados": []
+        },
+        {
+            "nombre": "Guido Vasconez",
+            "id_usuario": "1713460002",
+            "libros_prestados": [
+                "001"
+            ]
+        },
+        {
+            "nombre": "luis",
+            "id_usuario": "2134560987",
+            "libros_prestados": []
+        },
+        {
+            "nombre": "jean",
+            "id_usuario": "2300056987",
+            "libros_prestados": []
+        },
+        {
+            "nombre": "Peter",
+            "id_usuario": "2314567391",
+            "libros_prestados": []
+        }
+    ]
+}

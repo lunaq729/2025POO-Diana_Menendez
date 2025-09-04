@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "iguel de Cervantes",
+        "categoria": "",
+        "isbn": "2"
+    },
+    {
+        "titulo": "El Principito",
+        "autor": "Antoine de Saint",
+        "categoria": "4",
+        "isbn": "004"
+    },
+    {
+        "titulo": "2",
+        "autor": "Marcel Prous",
+        "categoria": "1",
+        "isbn": "002"
+    },
+    {
+        "titulo": "Los Tres Cerditos",
+        "autor": "Anne Sophie Baumann",
+        "categoria": "7",
+        "isbn": "007"
+    },
+    {
+        "titulo": "Blancanieves",
+        "autor": "los Hermanos Grimm",
+        "categoria": "1",
+        "isbn": "001"
+    },
+    {
+        "titulo": "Pinocho:",
+        "autor": "Disney ",
+        "categoria": "5",
+        "isbn": "005"
+    },
+    {
+        "titulo": "La Cenicienta",
+        "autor": "Charles Perrault",
+        "categoria": "6",
+        "isbn": "006"
+    },
+    {
+        "titulo": "Alicia en el País de las Maravillas",
+        "autor": "Lewis Carroll",
+        "categoria": "8",
+        "isbn": "008"
+    }
+]
