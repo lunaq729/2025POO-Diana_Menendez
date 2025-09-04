@@ -1,0 +1,39 @@
+[
+    {
+        "nombre": "Diana",
+        "user_id": "1310404395",
+        "libros_prestados": [
+            {
+                "titulo": "2",
+                "autor": "Marcel Prous",
+                "categoria": "1",
+                "isbn": "002"
+            }
+        ]
+    },
+    {
+        "nombre": "Guido",
+        "user_id": "1713460002",
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Jean",
+        "user_id": "2300056789",
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Luis",
+        "user_id": "2314565432",
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Peter",
+        "user_id": "0000000001",
+        "libros_prestados": []
+    },
+    {
+        "nombre": "",
+        "user_id": "",
+        "libros_prestados": []
+    }
+]
