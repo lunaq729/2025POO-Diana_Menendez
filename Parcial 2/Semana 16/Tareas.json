@@ -1,0 +1,44 @@
+[
+  {
+    "tarea": "POO",
+    "fecha": "29/09/2025",
+    "hora": "17:15",
+    "descripcion": "EVALUACION",
+    "estado": "Completada"
+  },
+  {
+    "tarea": "MATEMATICA",
+    "fecha": "28/09/2025",
+    "hora": "16:00",
+    "descripcion": "EXAMEN",
+    "estado": "Completada"
+  },
+  {
+    "tarea": "FISICA",
+    "fecha": "29/09/2025",
+    "hora": "11:00",
+    "descripcion": "TAREA",
+    "estado": "Completada"
+  },
+  {
+    "tarea": "SISTEMA OPERATIVO",
+    "fecha": "24/09/2025",
+    "hora": "12h25",
+    "descripcion": "DEBER",
+    "estado": "Completada"
+  },
+  {
+    "tarea": "ESTADISTICA",
+    "fecha": "01/10/2025",
+    "hora": "4:40",
+    "descripcion": "TAREA",
+    "estado": "Completada"
+  },
+  {
+    "tarea": "INGLES",
+    "fecha": "30/9/2025",
+    "hora": "7:00",
+    "descripcion": "EVALUACION",
+    "estado": "Completada"
+  }
+]
