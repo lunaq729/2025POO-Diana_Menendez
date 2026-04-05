@@ -1,0 +1,7 @@
+v 4
+file . "sumador_tb.vhd" "fd547cf290d6af23e0453009f9a663024a40d197" "20260404171412.651":
+  entity sumador_tb at 1( 0) + 0 on 13;
+  architecture sim of sumador_tb at 7( 88) + 0 on 14;
+file . "sumador.vhd" "4eb97aa8c29eedf20ecd613fb96956dffa459e1b" "20260404171412.650":
+  entity sumador at 1( 0) + 0 on 11;
+  architecture behavioral of sumador at 11( 213) + 0 on 12;
